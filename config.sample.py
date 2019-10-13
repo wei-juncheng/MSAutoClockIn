@@ -9,5 +9,5 @@ CONFIG = {
     'email': '',
     'password': '',
     'targetURL': '', #輸入打卡的網址，類似:'https://duty16.**************.org/auth/login'，中間請自行填入~
-    'TimeRange':'' #輸入要點選的打卡時間，格式範例:'(09:30 ~ 18:30)'
+    'TimeRange':'' #輸入要點選的打卡時間，格式範例:'(09:30 ~ 18:30)' 
 }
